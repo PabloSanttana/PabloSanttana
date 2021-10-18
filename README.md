@@ -1,11 +1,28 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme pablo de Santana Maciel
 
 <!--
 **PabloSanttana/PabloSanttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 At the moment, I'm working with Full-stack development
-- 🌱 I’m currently learning JavaScript, Typescript, SQL, NodeJS, ReactJS, React-Native, NextJs
+## 💻 Technologies
+- Front-end skills:
+  - HTML;
+  - CSS;
+  - sass;
+  - Bootstrap;
+  - JavaScript (ES6+);
+  - Typescript;
+  - ReactJS;
+  - NextJs;
+  - Tailwind css;
+  - styled-components;
+- Backend skills:
+- SQL;
+- NodeJS;
+- Laravel;
+- PHP;
+- C, C++
 - 📫 How to reach me: <a href = "mailto:pablo_guilherme02@hotmail.com">  pablo_guilherme02@hotmail.com </a>
 <div>
   <a href="https://github.com/PabloSanttana">
