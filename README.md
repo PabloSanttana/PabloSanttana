@@ -18,11 +18,11 @@
   - Tailwind css;
   - styled-components;
 - Backend skills:
-- SQL;
-- NodeJS;
-- Laravel;
-- PHP;
-- C, C++
+  - SQL;
+  - NodeJS;
+  - Laravel;
+  - PHP;
+  - C, C++
 - 📫 How to reach me: <a href = "mailto:pablo_guilherme02@hotmail.com">  pablo_guilherme02@hotmail.com </a>
 <div>
   <a href="https://github.com/PabloSanttana">
