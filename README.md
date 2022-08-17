@@ -23,6 +23,8 @@
   - Laravel;
   - PHP;
   - C, C++
+  - Python
+  - Django
 - 📫 How to reach me: <a href = "mailto:pablo_guilherme02@hotmail.com">  pablo_guilherme02@hotmail.com </a>
 <div>
   <a href="https://github.com/PabloSanttana">
