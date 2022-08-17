@@ -46,6 +46,8 @@
   <img align="center" alt="PabloSanttana-Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="PabloSanttana-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="PabloSanttana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="PabloSanttana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="PabloSanttana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
     
 </div>
   
