@@ -6,6 +6,7 @@
 
 - 🔭 At the moment, I'm working with Full-stack development
 ## 💻 Technologies
+
 - Front-end skills:
   - HTML;
   - CSS;
@@ -22,9 +23,11 @@
   - NodeJS;
   - Laravel;
   - PHP;
-  - C, C++
-  - Python
-  - Django
+  - C, C++;
+  - Python;
+  - Django;
+ - Mobile skills:
+   - React Native
 - 📫 How to reach me: <a href = "mailto:pablo_guilherme02@hotmail.com">  pablo_guilherme02@hotmail.com </a>
 <div>
   <a href="https://github.com/PabloSanttana">
