@@ -1,8 +1,11 @@
-### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Pablo de Santana Maciel
+### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamo Guilherme Pablo de Santana Maciel, tenho 26 anos, sou programador apaixonado.
 
-<!--
-**PabloSanttana/PabloSanttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Cursando Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN), formado em Ciência e Tecnologias pela (UFRN). Durante a minha formação em ciências e tecnologias fiz parte do desenvolvimento do RN+vacina.
+
+Atualmente sou pesquisador e desenvolvedor no Laboratório de Inovação Tecnológica em Saúde da (UFRN) desde junho de 2018. Onde faço parte do desenvolvimento do Registro Nacional da Esclerose Lateral Amiotrófica (ELA) é do Autonomus (Iniciativas desenvolvidas para reduzir os impactos da ELA na qualidade de vida do paciente).
+
+Estou adquirindo uma grande experiência na área de desenvolvimento de websites, aplicativos e software, buscando sempre novos desafios, com o objetivo no que diz respeito a mesma, expandindo assim cada vez mais meus conhecimentos profissionais. 
+
 
 - 🔭 At the moment, I'm working with Full-stack development
 ## 💻 Technologies
