@@ -66,7 +66,10 @@
 ## Contact
 <div>
   <a href = "mailto:pablo_guilherme02@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-   <a href = "mailto:pabloguilherme813@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+   <a href = "mailto:pabloguilherme813@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  </a>
+  <a href = "https://wa.me/5584998355843?text=Ol%C3%A1+Pablo%2C+Tudo+bem%3F">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+</div>
 
    
