@@ -2,7 +2,7 @@
 
 Cursando Engenharia de Computação na Universidade Federal do Rio Grande do Norte (UFRN), formado em Ciência e Tecnologias pela (UFRN). Durante a minha formação em ciências e tecnologias fiz parte do desenvolvimento do RN+vacina.
 
-Atualmente sou pesquisador e desenvolvedor no Laboratório de Inovação Tecnológica em Saúde da (UFRN) desde junho de 2018. Onde faço parte do desenvolvimento do Registro Nacional da Esclerose Lateral Amiotrófica (ELA) é do Autonomus (Iniciativas desenvolvidas para reduzir os impactos da ELA na qualidade de vida do paciente).
+Atualmente sou pesquisador e desenvolvedor no Laboratório de Inovação Tecnológica em Saúde da (UFRN) desde junho de 2019. Onde faço parte do desenvolvimento do Registro Nacional da Esclerose Lateral Amiotrófica (ELA) é do Autonomus (Iniciativas desenvolvidas para reduzir os impactos da ELA na qualidade de vida do paciente).
 
 Estou adquirindo uma grande experiência na área de desenvolvimento de websites, aplicativos e software, buscando sempre novos desafios, com o objetivo no que diz respeito a mesma, expandindo assim cada vez mais meus conhecimentos profissionais. 
 
