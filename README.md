@@ -25,7 +25,6 @@ Estou adquirindo uma grande experiência na área de desenvolvimento de websites
   - SQL;
   - NodeJS;
   - Laravel;
-  - PHP;
   - C, C++;
   - Python;
   - Django;
@@ -51,7 +50,7 @@ Estou adquirindo uma grande experiência na área de desenvolvimento de websites
   <img align="center" alt="PabloSanttana-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="PabloSanttana-Jquery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="PabloSanttana-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="PabloSanttana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+ 
   <img align="center" alt="PabloSanttana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="PabloSanttana-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
     
