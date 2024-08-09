@@ -30,6 +30,10 @@ Estou adquirindo uma grande experiência na área de desenvolvimento de websites
   - Django;
  - Mobile skills:
    - React Native
+ - other skills:
+   - Machine Learning;
+   - Artificial Intelligence;
+   - Data Engineering;
 - 📫 How to reach me: <a href = "mailto:pablo_guilherme02@hotmail.com">  pablo_guilherme02@hotmail.com </a>
 <div>
   <a href="https://github.com/PabloSanttana">
